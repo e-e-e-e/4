@@ -8,6 +8,7 @@ this.state = state.normal
 this.action = true // Makes game function
 this.playervalue === 0
 this.otherplayervalue === 0
+this.timerstopped = true
 self.data = true
 
 // Choose a face
