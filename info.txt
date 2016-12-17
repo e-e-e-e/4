@@ -1,0 +1,3 @@
+2 = Smiley
+1 = Liney
+0 = Sad
