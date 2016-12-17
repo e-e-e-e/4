@@ -1,7 +1,7 @@
 function GameManager(sizeofcards, sizeoffacecards, Actuator, FaceCards, Timer)
 this.launchgame = true // Start the game
 this.sizeofcards = 33% // Size of the 4s
-this.sizeoffacecards = size // Size of the face cards
+this.sizeoffacecards = 25% // Size of the face cards
 this.won = false
 this.over = false
 this.state = state.normal
