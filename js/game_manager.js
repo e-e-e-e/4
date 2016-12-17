@@ -31,3 +31,7 @@ this.state = state.normal
 
 if (this.clear = true) return; // Don't do anything if the game is over
 
+// The Winner
+if this.timerstopped = true;
+if (this.playervalue > this.otherplayervalue) this.won = true;
+var (this.action = false)
